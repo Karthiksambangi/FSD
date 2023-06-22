@@ -1,0 +1,84 @@
+ * {
+    margin: 0;
+    padding: 0;
+}
+
+.background {
+   
+     height:100vh;
+    width:100%;
+    background-image: linear-gradient(90deg,#3e32a8,#e310c7);
+} 
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    width: 43%;
+    color: #263A29;
+}
+
+.center1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    height: 40%;
+}
+
+.center2 {
+    padding: 0.5%;
+    text-align: center;
+    font-size: 40px;
+    background: linear-gradient(to right,
+    violet,
+    indigo,
+    blue,
+    green,
+    yellow,
+    orange,
+    red);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+.center3 {
+    margin: 1cm;
+    padding: 0.5%;
+    text-align: center;
+    font-size: 40px;
+    background: linear-gradient(to right,
+    violet,
+    indigo,
+    blue,
+    green,
+    yellow,
+    orange,
+    red);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.color {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 55%;
+
+}
+
+.color2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 49%;
+} 
+.code {
+    display: block;
+    margin-left:40%;
+    margin-right: auto;
+    width: 55%;
+}
+ 
+
+
